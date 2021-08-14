@@ -1,0 +1,21 @@
+/**
+ * @name medoed.club
+ * @author твоя мама
+ * @version ?
+ * @description A cold, dark & frosty theme.
+ * @source https://github.com/DiscordStyles/medoedka/
+*/
+
+@import url('https://DiscordStyles.github.io/DarkMatter/src/base.css');
+
+/* Variables */
+:root {
+    --avatar-size: 32px;
+    --background-image: url('https://imgur.com/YWfmir0.png'); // the medoedka
+    --home-image: url('https://i.imgur.com/233d55Y.gif'); // nevergrisha
+    --background-solid: #161921;
+    --background-solid-dark: #101218;
+    --background-solid-darker: #0c0e12;
+    --accent: 37, 172, 232;
+    --accent-alt: 29, 101, 134;
+}
